@@ -8,7 +8,7 @@
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/night2.css" id="theme">
+		<link rel="stylesheet" href="dist/theme/numa.css" id="theme">
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
@@ -18,12 +18,12 @@
 			<div class="slides">
 			<script type="text/template">
 			</script>
-			
-			<h6> Introduction à Inkscape </h6>
                 <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
 			
 			<!-- COLONNE 1-->
 			<section>
+				<h6> Introduction à Inkscape </h6>
+
 				<section data-markdown data-separator="---">
 ## Introduction au dessin vectoriel : premiers pas avec Inkscape
 Emmanuel Bourassin
@@ -36,6 +36,7 @@ Emmanuel Bourassin
 
 			<!-- COLONNE 2-->			
 			<section>
+				<h6> Plan de la formation </h6>
 				<section data-markdown data-separator="---">
 ### Première partie :
 - Le dessin vectoriel, qu’est-ce que c’est ? 
@@ -44,6 +45,7 @@ Emmanuel Bourassin
 ### Deuxième partie :
 - Outils de dessin, formes géométriques, types de tracé
 - Transformations, alignement et distribution
+- Grille & guides
 - Utilisation des calques
 - Opérations géométriques ensemblistes
 - mode object
@@ -66,8 +68,9 @@ Emmanuel Bourassin
 			</section>	
 			
 			<section>
+				<h6> Le dessin vectoriel </h6>
 				<section data-markdown data-separator="---">
-### VECTORIEL vs. MATRICIEL
+### Première partie
 ![vecto pas vecto](img/01_vecto.svg)
 ---
 
@@ -78,11 +81,21 @@ Emmanuel Bourassin
 			
 			<!-- COLONNE 3-->
 			<section>
+				<h6> Les outils d'Inkscape </h6>			
 				<section data-markdown data-separator="---">
 ## Deuxième partie : les outils simples, basiques
 ---
+### Les commandes utiles : MAJ, ALT, CTRL
+---
 ### Les courbes de Bézier [§](https://fr.wikipedia.org/wiki/Courbe_de_B%C3%A9zier) :
 ![courbes de Bezier](img/02_bezier.svg)	
+---
+#### Suivre une courbe : exercice
+---
+### Les formes géométriques : ellipse, rectangle, polygones réguliers
+- exercice 
+---
+### Exercice : les nœuds
 ---
 ### Transformations
 ![vecto pas vecto](img/02_transfo.svg)						
@@ -90,10 +103,20 @@ Emmanuel Bourassin
 ### Calques
 
 ---
-### Opérations géométriques ensemblistes
-![logic ](img/02_logic.svg)						
+### Outset/inset : zone tampon
+---
+### Opérations ensemblistes
+![logic ](img/02_logic.svg)		
+---
+### Exercice !
+![logic exo](img/02_exo_logic.svg)						
+---
+### Organiser et trier
+![logic ](img/02_logic.svg)			
+---
+### Couleur, motifs, remplissage, opacité, flou...
 
-
+---
 
 				</section>	
 			</section>
@@ -135,16 +158,33 @@ Astuce ombre, halo..
 			</section>
 			<section>
 				<section data-markdown data-separator="---">
-## Cinquième partie : 
-
-Mise en page
+## Cinquième partie : Mise en page
+---
+Formats usuels, taille & orientation
 ---
 Les couleurs : choix de l'espace colorimétrique à utiliser
 ---
 Export : Attention au fond ! Il est transparent par défaut.
 Il faut ajouter un rectangle blanc en arrière-plan pour avoir... un fond blanc.
+--- 
+Résolution : le compromis taille/qualité
+
 				</section>	
-			</section>			
+			</section>	
+			
+			<section>
+				<section data-markdown data-separator="---">
+## Crédits
+- Cours original
+- Dessins vectoriels réalisés avec Inkscape
+- Présentation réalisée avec [RevealJS](https://revealjs.com/)
+- Retrouvez les fichiers des exercices [ici](https://github.com/ebourassin/cours/tree/main/img)
+- Ce cours est conçu pour être accessible pour tous : partagez-le !
+##### [ebourassin.github.io/cours/inkscape](https://ebourassin.github.io/cours/inkscape.html)
+				</section>	
+			</section>		
+
+			
 			</div>
 			
 			
@@ -167,6 +207,8 @@ Il faut ajouter un rectangle blanc en arrière-plan pour avoir... un fond blanc.
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
+			Reveal.initialize({ slideNumber: 'c/t' });
+			Reveal.initialize({ showSlideNumber: 'print' });
 		</script>
 	</body>
 </html>
