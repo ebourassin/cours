@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Cours</title>
+		<title>Introduction à Inkscape</title>
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
@@ -41,6 +41,7 @@ Emmanuel Bourassin
 ### Première partie :
 - Le dessin vectoriel, qu’est-ce que c’est ? 
 - Quels usages ? Quels formats ?
+- Exemples de productions réalisées avec Inkscape
 ---
 ### Deuxième partie :
 - Outils de dessin, formes géométriques, types de tracé
@@ -69,12 +70,10 @@ Emmanuel Bourassin
 			
 			<section>
 				<h6> Le dessin vectoriel </h6>
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ### Première partie
 ![vecto pas vecto](img/01_vecto.svg)
----
-
----
+~~~ expliquer le concept de pixel
 				</section>	
 			</section>
 			
@@ -82,7 +81,7 @@ Emmanuel Bourassin
 			<!-- COLONNE 3-->
 			<section>
 				<h6> Les outils d'Inkscape </h6>			
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ## Deuxième partie : les outils simples, basiques
 ---
 ### Les commandes utiles : MAJ, ALT, CTRL
@@ -92,16 +91,15 @@ Emmanuel Bourassin
 ---
 #### Suivre une courbe : exercice
 ---
-### Les formes géométriques : ellipse, rectangle, polygones réguliers
+### Les formes géométriques :ellipse, rectangle, polygones réguliers
 - exercice 
 ---
 ### Exercice : les nœuds
 ---
 ### Transformations
-![vecto pas vecto](img/02_transfo.svg)						
+![transformations](img/02_transfo.svg)						
 ---
 ### Calques
-
 ---
 ### Outset/inset : zone tampon
 ---
@@ -122,22 +120,24 @@ Emmanuel Bourassin
 			</section>
 			
 			<section>
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ## Troisième partie : des pixels !
 ---
 Ajouter une image
 ---
 Rogner une image
 ---
-Détourage
+Et détourer un objet ?
 ---
 Vectorisation
 ---
 Filtres
+---
+Extensions
 				</section>	
 			</section>
 			<section>
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ## Quatrième partie : que fait la police
 ---
 Outil champs de texte
@@ -150,14 +150,14 @@ Couler dans une forme
 - en colone 
 - dans une ellipse
 ---
-FontSquirel : 
+[FontSquirel](https://fontsquirrel.com) : 
 ---
 Astuce ombre, halo..
 ---
 				</section>	
 			</section>
 			<section>
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ## Cinquième partie : Mise en page
 ---
 Formats usuels, taille & orientation
@@ -168,12 +168,18 @@ Export : Attention au fond ! Il est transparent par défaut.
 Il faut ajouter un rectangle blanc en arrière-plan pour avoir... un fond blanc.
 --- 
 Résolution : le compromis taille/qualité
+---
+Astuces de mise en page
+---
+Edition d'un PDF
+
+
 
 				</section>	
 			</section>	
 			
 			<section>
-				<section data-markdown data-separator="---">
+				<section data-markdown data-separator="---" data-separator-notes="~~~">
 ## Crédits
 - Cours original
 - Dessins vectoriels réalisés avec Inkscape
@@ -203,12 +209,11 @@ Résolution : le compromis taille/qualité
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
-
+				slideNumber: 'true',
+				showSlideNumber: 'all',	
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
-			Reveal.initialize({ slideNumber: 'c/t' });
-			Reveal.initialize({ showSlideNumber: 'print' });
 		</script>
 	</body>
 </html>
