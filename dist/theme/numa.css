@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
@@ -14,12 +14,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --background-color: #fcfcf5;
-  --main-font: Open Sans, sans-serif;
+  --font-family: 'Montserrat', sans-serif;
   --main-font-size: 40px;
   --main-color: #222;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
-  --heading-font: Montserrat, Impact, sans-serif;
+  --heading-font: 'Montserrat', sans-serif;
   --heading-color: #fff;
   --heading-line-height: 1.2;
   --heading-letter-spacing: -0.03em;
@@ -42,9 +42,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
   background-color: #fcfcf5; }
 
 .reveal {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 40px;
-  font-weight: normal;
+  font-weight: bold;
   color: #222; }
 
 .reveal ::selection {
@@ -73,8 +73,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal h6 {
   text-align:left;
   margin: 0 0 20px 0;
-  color: #222;
-  font-family: 'Noto Sans', sans-serif;
+  color: #444;
+  font-family: 'Montserrat', sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.03em;
