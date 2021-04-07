@@ -280,6 +280,24 @@
        width="140"
        height="69.999998"
        id="rect2111" />
+    <rect
+       x="540"
+       y="229.99998"
+       width="140"
+       height="70"
+       id="rect4998" />
+    <rect
+       x="540"
+       y="229.99998"
+       width="140"
+       height="70"
+       id="rect5004" />
+    <rect
+       x="540"
+       y="229.99998"
+       width="140"
+       height="70"
+       id="rect5010" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -288,9 +306,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="4663.6249"
-     inkscape:cy="80.798636"
+     inkscape:zoom="0.17210329"
+     inkscape:cx="2996.6617"
+     inkscape:cy="3642.0432"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1068,13 +1086,13 @@
     <path
        id="path6032"
        style="fill:#79dcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10064;stroke-linejoin:bevel;stroke-dasharray:0.20128, 0.10064;stroke-dashoffset:0.322048"
-       d="m 1209.9998,419.99999 v 45.00011 45.00009 h 80.0001 80 V 487.50013 465.0001 442.50004 419.99999 h -80 z"
+       d="m 1209.9998,519.99998 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
        sodipodi:nodetypes="ccccccccccc" />
     <text
        xml:space="preserve"
        id="text6036"
        style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6050);"
-       transform="translate(679.47254,201.00835)"
+       transform="translate(679.47254,301.00834)"
        x="-52.323887"
        y="0"><tspan
          x="540"
@@ -1083,13 +1101,13 @@
     <path
        id="path6038"
        style="fill:#79dcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10064;stroke-linejoin:bevel;stroke-dasharray:0.20128, 0.10064;stroke-dashoffset:0.322048"
-       d="m 1209.9998,519.99998 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
+       d="m 1209.9998,619.99997 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
        sodipodi:nodetypes="ccccccccccc" />
     <text
        xml:space="preserve"
        id="text6042"
        style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6052);"
-       transform="translate(679.47254,301.00834)"
+       transform="translate(679.47254,401.00833)"
        x="-52.323887"
        y="0"><tspan
          x="540"
@@ -1108,13 +1126,13 @@
     <path
        id="path6062"
        style="fill:#79dcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10064;stroke-linejoin:bevel;stroke-dasharray:0.20128, 0.10064;stroke-dashoffset:0.322048"
-       d="m 1209.9998,619.99998 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
+       d="m 1209.9998,719.99997 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
        sodipodi:nodetypes="ccccccccccc" />
     <text
        xml:space="preserve"
        id="text6066"
        style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect6068);"
-       transform="translate(679.47254,401.00834)"
+       transform="translate(679.47254,501.00833)"
        x="-52.323887"
        y="0"><tspan
          x="540"
@@ -2690,7 +2708,7 @@
          y="524.01331"
          id="text3868"><tspan
            sodipodi:role="line"
-           id="tspan3866"
+           id="tspan4129"
            x="118.99241"
            y="524.01331"
            style="font-size:4.7625px;stroke-width:0.264583">.<tspan
@@ -3613,7 +3631,7 @@
     <text
        xml:space="preserve"
        id="text2051"
-       style="font-family:Apercu;font-size:8.46666969px;line-height:6;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Apercu, Bold';text-align:center;writing-mode:lr;font-weight:bold;white-space:pre;shape-inside:url(#rect2053)" />
+       style="font-family:Apercu;font-size:8.46666969px;line-height:6;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Apercu, Bold';text-align:center;writing-mode:lr;font-weight:bold;white-space:pre;shape-inside:url(#rect2053);" />
     <rect
        style="fill:#b6ff79;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10064;stroke-linejoin:bevel;stroke-dasharray:0.20128, 0.10064;stroke-dashoffset:0.322048"
        id="rect2057"
@@ -3751,15 +3769,101 @@
     <text
        xml:space="preserve"
        id="text2113"
-       style="font-family:Apercu;font-size:8.46666969px;line-height:6;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Apercu, Bold';text-align:center;writing-mode:lr;font-weight:bold;white-space:pre;shape-inside:url(#rect2115)" />
+       style="font-family:Apercu;font-size:8.46666969px;line-height:6;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Apercu, Bold';text-align:center;writing-mode:lr;font-weight:bold;white-space:pre;shape-inside:url(#rect2115);" />
     <text
        xml:space="preserve"
        id="text2119"
-       style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect2121)"
+       style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect2121);"
        x="-4.7836566"
        y="0"><tspan
          x="720"
          y="636.57281"><tspan
            style="text-align:start;text-anchor:start">Calques</tspan></tspan></text>
+    <path
+       id="path4976"
+       style="fill:#79dcff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10064;stroke-linejoin:bevel;stroke-dasharray:0.20128, 0.10064;stroke-dashoffset:0.322048"
+       d="m 1209.9998,419.99978 v 45.00011 45.00009 h 80.0001 80 v -22.50006 -22.50003 -22.50006 -22.50005 h -80 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <g
+       id="g4974"
+       transform="matrix(2.1398435,0,0,2.1398435,1091.6063,-652.3362)">
+      <path
+         id="path4960"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.2432;stroke-opacity:1"
+         d="m 120.75374,516.82104 h -6.00009 l -9e-5,12.00024 h 8.99991 l 9e-5,-8.9999 z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path4962"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.2432;stroke-opacity:1"
+         d="m 123.75337,519.82128 -2.99982,-3.00034 v 3.00034 z" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:4.7625px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:-0.198437px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+         x="119.09163"
+         y="524.01331"
+         id="text4968"><tspan
+           sodipodi:role="line"
+           id="tspan4966"
+           x="118.99241"
+           y="524.01331"
+           style="font-size:4.7625px;stroke-width:0.264583">.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Apercu;-inkscape-font-specification:'Apercu Bold'"
+   id="tspan4964">svg</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:3.175px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+         x="119.15269"
+         y="531.68939"
+         id="text4972"><tspan
+           sodipodi:role="line"
+           id="tspan4970"
+           x="119.15269"
+           y="531.68939"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold';stroke-width:0.264583">exo1_1</tspan></text>
+    </g>
+    <path
+       id="path4978"
+       style="fill:#ff9145;fill-opacity:1;fill-rule:evenodd;stroke-width:0.101;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.202, 0.101;stroke-dashoffset:0.3232"
+       d="M 869.99977,1219.9998 V 1264.9999 1310 h 80.0001 80.00003 v -22.5001 -22.5 -22.5001 -22.5 h -80.00003 z"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       id="text4984"
+       style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect4998);"
+       transform="translate(339.92893,999.60346)"
+       x="-31.415482"
+       y="0"><tspan
+         x="540"
+         y="236.57281"><tspan>Grouper les objets</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5002"
+       style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect5004);"
+       transform="translate(339.92893,1013.7354)"
+       x="-31.415482"
+       y="0"><tspan
+         x="540"
+         y="236.57281"><tspan>Groupe de groupes</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5008"
+       style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect5010);"
+       transform="translate(339.92893,1033.3027)"
+       x="-31.415482"
+       y="0"><tspan
+         x="540"
+         y="236.57281"><tspan>Dégrouper
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="935.44061"
+       y="1289.9999"
+       id="text5014"><tspan
+         sodipodi:role="line"
+         id="tspan5012"
+         x="935.44061"
+         y="1289.9999"
+         style="stroke-width:0.264583">Un groupe d'objets est un objet</tspan></text>
   </g>
 </svg>
