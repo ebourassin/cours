@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.59906mm"
+   height="180.3373mm"
+   viewBox="0 0 320.59906 180.3373"
+   version="1.1"
+   id="svg4519"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="s_4_3.svg">
+  <defs
+     id="defs4513" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="430.01396"
+     inkscape:cy="248.17032"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata4516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(80.653183,45.470983)">
+    <path
+       style="fill:#3a9ab9;fill-opacity:1;stroke:none;stroke-width:1.00187171;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -80.653193,-45.470983 V 134.86631 H 239.94588 V -45.470983 Z"
+       id="rect6732"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-32.650208"
+       y="120.50322"
+       id="text3290"><tspan
+         sodipodi:role="line"
+         id="tspan3288"
+         x="-32.650208"
+         y="126.923"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.93334007px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.52916598"
+       x="-38.811031"
+       y="-14.73584"
+       id="text35532"><tspan
+         sodipodi:role="line"
+         id="tspan35530"
+         x="-38.811031"
+         y="-14.73584"
+         style="stroke-width:0.52916598;-inkscape-font-specification:'Montserrat Bold';font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">CTRL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.93334007px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.52916598"
+       x="-47.787693"
+       y="23.014637"
+       id="text35536"><tspan
+         sodipodi:role="line"
+         id="tspan35534"
+         x="-47.787693"
+         y="23.014637"
+         style="stroke-width:0.52916598;-inkscape-font-specification:'Montserrat Bold';font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">MAJ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.93334007px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.52916598"
+       x="-72.563255"
+       y="63.493603"
+       id="text35540"><tspan
+         sodipodi:role="line"
+         id="tspan35538"
+         x="-72.563255"
+         y="63.493603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:start;text-anchor:start;stroke-width:0.52916598">CTRL+MAJ+V : coller un style</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.93334007px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.52916598"
+       x="-72.585938"
+       y="86.263664"
+       id="text35544"><tspan
+         sodipodi:role="line"
+         id="tspan35542"
+         x="-72.585938"
+         y="86.263664"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:start;text-anchor:start;stroke-width:0.52916598">CTRL + D : dupliquer la sélection</tspan></text>
+    <text
+       id="text3360"
+       y="-14.73584"
+       x="234.36363"
+       style="font-weight:bold;font-size:16.93334007px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.52916598"
+       xml:space="preserve"><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.52916598;-inkscape-font-specification:'Montserrat Bold';font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="-14.73584"
+         x="234.36363"
+         id="tspan3358"
+         sodipodi:role="line">: déplacement rectilignes</tspan></text>
+  </g>
+</svg>
