@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,14 +8,21 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="800mm"
+   viewBox="0 0 210 800"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="exos_.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="0"
+       y="128.28937"
+       width="183.34689"
+       height="40.3577"
+       id="rect10526" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,47 +30,38 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="360.67227"
-     inkscape:cy="935.05187"
+     inkscape:zoom="1"
+     inkscape:cx="270.27106"
+     inkscape:cy="2695.0844"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="657"
      inkscape:window-maximized="1"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-nodes="true"
-     inkscape:object-paths="false">
+     inkscape:object-paths="false"
+     inkscape:document-rotation="0"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox="false"
+     guidetolerance="10.5">
     <inkscape:grid
        type="xygrid"
        id="grid828"
        units="mm"
-       spacingx="1"
-       spacingy="1"
+       spacingx="9.9999998"
+       spacingy="9.9999998"
        color="#6865d9"
        opacity="0.1254902" />
-    <sodipodi:guide
-       position="26.999999,255.00001"
-       orientation="0,1"
-       id="guide4608"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="25,255"
-       orientation="-0.70710678,0.70710678"
-       id="guide4610"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="25,255"
-       orientation="1,0"
-       id="guide4612"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -82,26 +78,25 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Fond"
-     sodipodi:insensitive="true">
+     inkscape:label="Fond">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="4.8108516"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.9196091"
        y="19.958107"
        id="text826"><tspan
          sodipodi:role="line"
          id="tspan824"
-         x="4.8108516"
+         x="4.9196091"
          y="19.958107"
-         style="font-size:4.23333311px;stroke-width:0.26458332">Dans les propriétés du document, définir une grille dont le pas est de 1 mm par 1 mm</tspan></text>
+         style="font-size:4.23333px;stroke-width:0.264583">Dans les propriétés du document, définir une grille dont le pas est de 10 mm par 10 mm</tspan></text>
     <text
        id="text4539"
        y="24.808338"
        x="6.1573915"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium Italic';fill:#333333;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium Italic';fill:#333333;fill-opacity:1;stroke-width:0.264583"
          y="24.808338"
          x="6.1573915"
          id="tspan4537"
@@ -109,21 +104,21 @@
     <text
        id="text4543"
        y="34.323841"
-       x="4.543582"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.3387089"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:4.23333311px;stroke-width:0.26458332"
+         style="font-size:4.23333px;stroke-width:0.264583"
          y="34.323841"
-         x="4.543582"
+         x="5.3387089"
          sodipodi:role="line"
          id="tspan4553">Ajouter trois guides passant par le centre de la croix ci-dessous avec des angles de 0, 45 et 90°</tspan></text>
     <text
        id="text4549"
        y="12.136085"
        x="4.4254961"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.52318573px;line-height:14.70199108px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58807963"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.5232px;line-height:14.702px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58808"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.4092741px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58807963"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.40927px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58808"
          y="12.136085"
          x="4.4254961"
          id="tspan4547"
@@ -134,60 +129,932 @@
          inkscape:connector-curvature="0"
          id="path4557"
          d="m 23,42 h 4"
-         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path4559"
          d="m 25,43.999998 v -4"
-         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="4.543582"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.9196091"
        y="50.760918"
        id="text4571"><tspan
          id="tspan4569"
          sodipodi:role="line"
-         x="4.543582"
+         x="4.9196091"
          y="50.760918"
-         style="font-size:4.23333311px;stroke-width:0.26458332">Modifier la couleur du guide incliné de 45° pour qu'il soit jaune </tspan></text>
+         style="font-size:4.23333px;stroke-width:0.264583">Modifier la couleur du guide incliné de 45° pour qu'il soit jaune </tspan></text>
     <text
        id="text4575"
-       y="56.173126"
-       x="4.543582"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="102.14349"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:4.23333311px;stroke-width:0.26458332"
-         y="56.173126"
-         x="4.543582"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="102.14349"
+         x="4.9196091"
          sodipodi:role="line"
          id="tspan4573">Masquer les guides</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="4.543582"
-       y="61.653782"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.9196091"
+       y="95.062477"
        id="text4579"><tspan
          id="tspan4577"
          sodipodi:role="line"
-         x="4.543582"
-         y="61.653782"
-         style="font-size:4.23333311px;stroke-width:0.26458332">Masquer la grille </tspan></text>
+         x="4.9196091"
+         y="95.062477"
+         style="font-size:4.23333px;stroke-width:0.264583">Masquer la grille </tspan></text>
     <text
        id="text4583"
        y="67.701401"
        x="4.543582"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.9196091"
+       y="80.154663"
+       id="text10408"><tspan
+         id="tspan10406"
+         sodipodi:role="line"
+         x="4.9196091"
+         y="80.154663"
+         style="font-size:4.23333px;stroke-width:0.264583">Déplacer le carré ci-dessus à proximité des guides et observer son comportement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="5.1312757"
+       y="85.824303"
+       id="text10412"><tspan
+         id="tspan10410"
+         sodipodi:role="line"
+         x="5.1312757"
+         y="85.824303"
+         style="font-size:4.23333px;stroke-width:0.264583">Cliquer sur les différences options de magnétisme et constater leurs effets</tspan></text>
+    <text
+       id="text10416"
+       y="116.30254"
+       x="4.543582"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:4.23333311px;stroke-width:0.26458332"
-         y="74.121185"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="116.30254"
          x="4.543582"
          sodipodi:role="line"
-         id="tspan4581" /></text>
+         id="tspan10414" /></text>
+    <text
+       id="text10420"
+       y="126.34673"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="126.34673"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10418">Dessiner un rectangle</tspan></text>
+    <text
+       id="text10424"
+       y="133.83026"
+       x="4.9450092"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="133.83026"
+         x="4.9450092"
+         sodipodi:role="line"
+         id="tspan10422">Utiliser les différentes poignées et constater leurs effets</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="142.31233"
+         x="4.9450092"
+         sodipodi:role="line"
+         id="tspan10426" /></text>
+    <text
+       id="text10438"
+       y="141.31381"
+       x="5.1312757"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="141.31381"
+         x="5.1312757"
+         sodipodi:role="line"
+         id="tspan10434">Que se passe-t-il s'il l'on presse CTRL en créant le rectangle ? et MAJ ?</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="149.79588"
+         x="5.1312757"
+         sodipodi:role="line"
+         id="tspan10436" /></text>
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10446"
+       width="11.492589"
+       height="11.492589"
+       x="19.253706"
+       y="158.37878" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10448"
+       width="5.8799295"
+       height="10.824416"
+       x="88.209229"
+       y="158.64606"
+       rx="2.9399648"
+       ry="2.9399648" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10450"
+       width="23.4529"
+       height="11.626225"
+       x="117.34161"
+       y="158.57924"
+       rx="11.72645"
+       ry="2.4054329" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10454"
+       width="10.690781"
+       height="22.250189"
+       x="164.04695"
+       y="156.50789"
+       rx="5.3453903"
+       ry="11.125094" />
+    <text
+       id="text10460"
+       y="148.79735"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="148.79735"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10456">Reproduisez les &quot;rectangles&quot; suivants :</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="157.27942"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10458" /></text>
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10462"
+       width="10.958051"
+       height="21.916101"
+       x="53.998737"
+       y="158.91331"
+       rx="0"
+       ry="0" />
+    <text
+       id="text10468"
+       y="195.30225"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="195.30225"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10464">Reproduisez les ellipses suivants :</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="203.78432"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10466" /></text>
+    <circle
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.276712;stop-color:#000000"
+       id="path10470"
+       cx="35.538841"
+       cy="217.29233"
+       r="10.538839" />
+    <path
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.276712;stop-color:#000000"
+       id="path10472"
+       sodipodi:type="arc"
+       sodipodi:cx="68.513245"
+       sodipodi:cy="216.12135"
+       sodipodi:rx="11.709823"
+       sodipodi:ry="11.709823"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="slice"
+       d="m 80.223067,216.12135 a 11.709823,11.709823 0 0 1 -5.854911,10.14101 11.709823,11.709823 0 0 1 -11.709823,0 11.709823,11.709823 0 0 1 -5.854911,-10.14101 h 11.709823 z" />
+    <circle
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.276712;stop-color:#000000"
+       id="path10474"
+       sodipodi:type="arc"
+       sodipodi:cx="105.49364"
+       sodipodi:cy="213.28635"
+       sodipodi:rx="14.544832"
+       sodipodi:ry="14.544832"
+       sodipodi:start="0"
+       sodipodi:end="4.7225927"
+       sodipodi:arc-type="arc"
+       d="m 120.03847,213.28635 a 14.544832,14.544832 0 0 1 -9.01306,13.45182 14.544832,14.544832 0 0 1 -15.86886,-3.21968 14.544832,14.544832 0 0 1 -3.057597,-15.90088 14.544832,14.544832 0 0 1 13.543097,-8.87534"
+       sodipodi:open="true" />
+    <circle
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.276712;stop-color:#000000"
+       id="path10476"
+       sodipodi:type="arc"
+       sodipodi:cx="146.66493"
+       sodipodi:cy="211.93047"
+       sodipodi:rx="15.900705"
+       sodipodi:ry="15.900705"
+       sodipodi:start="0.61466297"
+       sodipodi:end="4.9957185"
+       sodipodi:arc-type="slice"
+       d="m 159.6553,221.10014 a 15.900705,15.900705 0 0 1 -20.67237,4.75222 15.900705,15.900705 0 0 1 -7.00178,-20.02262 15.900705,15.900705 0 0 1 19.12889,-9.16602 l -4.44511,15.26675 z" />
+    <ellipse
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.212631;stop-color:#000000"
+       id="path10478"
+       cx="208.74338"
+       cy="-176.74362"
+       rx="19.087797"
+       ry="6.3625994"
+       transform="rotate(90)" />
+    <text
+       id="text10484"
+       y="240.4704"
+       x="5.1312757"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="240.4704"
+         x="5.1312757"
+         sodipodi:role="line"
+         id="tspan10480">Quel est l'effet de presser la touche CTRL pendant la contruction d'un polygone régulier ?</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="248.95247"
+         x="5.1312757"
+         sodipodi:role="line"
+         id="tspan10482" /></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="path10486"
+       sodipodi:sides="5"
+       sodipodi:cx="32.95052"
+       sodipodi:cy="268.67703"
+       sodipodi:r1="9.8273811"
+       sodipodi:r2="4.6237826"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.62831853"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 42.777901,268.67703 -6.086663,2.71779 -0.703891,6.62861 -4.465655,-4.94892 -6.521691,1.37891 3.326736,-5.77639 -3.326736,-5.77639 6.521691,1.37891 4.465655,-4.94891 0.703891,6.6286 z"
+       inkscape:transform-center-x="-0.93843094"
+       inkscape:transform-center-y="-3.0785714e-06" />
+    <path
+       sodipodi:type="star"
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="path10494"
+       sodipodi:sides="3"
+       sodipodi:cx="157.62909"
+       sodipodi:cy="271.32291"
+       sodipodi:r1="13.529488"
+       sodipodi:r2="6.3656244"
+       sodipodi:arg1="0.43240778"
+       sodipodi:arg2="1.4796053"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.16"
+       inkscape:randomized="0"
+       d="m 169.91332,276.99255 c -1.57122,3.4043 -21.17379,5.19685 -23.3364,2.13399 -2.1626,-3.06287 6.08629,-20.93547 9.82011,-21.27691 3.73383,-0.34143 15.0875,15.73861 13.51629,19.14292 z"
+       inkscape:transform-center-x="0.4932277"
+       inkscape:transform-center-y="0.81383921" />
+    <path
+       sodipodi:type="star"
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="path10496"
+       sodipodi:sides="6"
+       sodipodi:cx="72.53669"
+       sodipodi:cy="270"
+       sodipodi:r1="12.750746"
+       sodipodi:r2="6.3753729"
+       sodipodi:arg1="1.3617734"
+       sodipodi:arg2="1.8853722"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 75.182523,282.47321 -12.125037,-3.94524 -2.645834,-12.47322 9.479205,-8.52796 12.125037,3.94524 2.645833,12.47322 z"
+       inkscape:transform-center-x="1.0795264"
+       inkscape:transform-center-y="1.5519187" />
+    <path
+       sodipodi:type="star"
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="path10505"
+       sodipodi:sides="6"
+       sodipodi:cx="115.44141"
+       sodipodi:cy="269.05505"
+       sodipodi:r1="13.187253"
+       sodipodi:r2="8.573535"
+       sodipodi:arg1="1.1263771"
+       sodipodi:arg2="1.2038688"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 121.11105,280.9613 -2.5939,-3.90342 -10.55204,2.86035 2.08352,-4.19809 -7.75316,-7.70816 4.67741,-0.29466 2.79888,-10.56852 2.5939,3.90342 10.55204,-2.86035 -2.08351,4.19809 7.75315,7.70816 -4.67741,0.29467 z"
+       inkscape:transform-center-x="2.147619e-06"
+       inkscape:transform-center-y="-3.1047618e-06" />
+    <text
+       id="text10522"
+       y="116.36302"
+       x="4.4254961"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.5232px;line-height:14.702px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58808"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.40927px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58808"
+         y="116.36302"
+         x="4.4254961"
+         id="tspan10520"
+         sodipodi:role="line">Formes </tspan></text>
+    <text
+       xml:space="preserve"
+       id="text10524"
+       style="font-weight:bold;font-size:8.46667px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect10526)" />
+    <text
+       id="text10554"
+       y="251.22343"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="251.22343"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10550">Reproduisez les polygones suivants :</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="259.70551"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10552" /></text>
+    <text
+       id="text10560"
+       y="306.5499"
+       x="4.9196091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="306.5499"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10556">Intéressons-nous maintenant au fond et au contour.</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="315.03195"
+         x="4.9196091"
+         sodipodi:role="line"
+         id="tspan10558" /></text>
+    <text
+       id="text10578"
+       y="315.34116"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="315.34116"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10574">Tester les différentes options pour modifier le fond des carrés suivants :</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="323.82321"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10576" /></text>
+    <text
+       id="text10584"
+       y="355.34116"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="355.34116"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10580">Tester les différentes options pour modifier le style du contour des carrés suivants :</tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="363.82321"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10582" /></text>
+    <text
+       id="text10602"
+       y="396.5499"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="396.5499"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10600">Jouer avec les curseurs Flou et Opacité après avoir sélectionner le rectangle ci-dessous :</tspan></text>
+    <text
+       id="text10746"
+       y="446.60406"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="446.60406"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10744">Utiliser les différentes poignées pour modifier les dimensions du rectangle ci-dessous. </tspan><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="455.08612"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10748">Cliquer une fois dessus pour faire apparaître les poignées de rotation et d'inclinaison.</tspan></text>
+    <text
+       id="text10771"
+       y="296.84808"
+       x="4.1602674"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.5232px;line-height:14.702px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58808"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.40927px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58808"
+         y="296.84808"
+         x="4.1602674"
+         id="tspan10769"
+         sodipodi:role="line">Style</tspan></text>
+    <text
+       id="text10775"
+       y="437.53876"
+       x="4.1602674"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.5232px;line-height:14.702px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58808"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.40927px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58808"
+         y="437.53876"
+         x="4.1602674"
+         id="tspan10773"
+         sodipodi:role="line">Transformation</tspan></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.413951;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10750-1"
+       width="33.665489"
+       height="22.622021"
+       x="640.32715"
+       y="486.55658"
+       inkscape:transform-center-x="4.1138981"
+       inkscape:transform-center-y="4.3384423"
+       transform="matrix(0.91775824,0.39713953,-0.84224891,0.53908884,0,0)" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.353935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10750-7"
+       width="27.465055"
+       height="20.271379"
+       x="10.86963"
+       y="518.95105" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.538033;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10750-5"
+       width="39.999996"
+       height="32.164387"
+       x="307.95853"
+       y="551.17627"
+       transform="matrix(1,0,-0.3606317,0.9327083,0,0)" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.419971;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10750-19"
+       width="32.329361"
+       height="24.247015"
+       x="-438.39081"
+       y="-338.23825"
+       transform="rotate(-135)" />
+    <text
+       id="text10828"
+       y="564.65704"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="564.65704"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10826">Accéder au menu de transformation en pressant CTRL + MAJ + M</tspan></text>
+    <text
+       id="text10844"
+       y="569.89551"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="569.89551"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10842">Sélectionner plusieurs objets ci-dessous et appliquer des transformation séparément ou non :</tspan></text>
+    <text
+       id="text10868"
+       y="624.33832"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="624.33832"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10866">Sélectionner plusieurs objet et les grouper </tspan></text>
+    <text
+       id="text10909"
+       y="679.63147"
+       x="4.1602674"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.5232px;line-height:14.702px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58808"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.40927px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';stroke-width:0.58808"
+         y="679.63147"
+         x="4.1602674"
+         id="tspan10907"
+         sodipodi:role="line">Aligner et distribuer </tspan></text>
+    <text
+       id="text10913"
+       y="687.44147"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="687.44147"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan10911">Accéder au menu &quot;Aligner et distribuer&quot; (CTRL + MAJ + A)</tspan></text>
+    <text
+       id="text11005"
+       y="692.60083"
+       x="5.3006091"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="692.60083"
+         x="5.3006091"
+         sodipodi:role="line"
+         id="tspan11007">Sélectionner les objets ci-dessous et tester les fonctions d'alignement et de distribution </tspan></text>
   </g>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10929"
+       cx="116.61511"
+       cy="706.37128"
+       rx="2.9765625"
+       ry="1.4552083" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10931"
+       cx="91.281242"
+       cy="708.48798"
+       rx="1.4552083"
+       ry="1.8520833" />
+    <circle
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10933"
+       cx="38.563023"
+       cy="720.06348"
+       r="1.7859374" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10935"
+       cx="126.80154"
+       cy="708.02496"
+       rx="1.9182291"
+       ry="3.1088541" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10937"
+       cx="52.453655"
+       cy="704.18848"
+       rx="1.7859374"
+       ry="2.4473958" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.239473;stop-color:#000000"
+       id="rect10384"
+       width="17.773418"
+       height="16.595436"
+       x="26.404957"
+       y="56.99395" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10562"
+       width="20"
+       height="20"
+       x="20"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10564"
+       width="20"
+       height="20"
+       x="50"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10566"
+       width="20"
+       height="20"
+       x="80"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10568"
+       width="20"
+       height="20"
+       x="109.99999"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10570"
+       width="20"
+       height="20"
+       x="140"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10572"
+       width="20"
+       height="20"
+       x="169.99998"
+       y="325.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10586"
+       width="20"
+       height="20"
+       x="20"
+       y="365.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10588"
+       width="20"
+       height="20"
+       x="50"
+       y="365.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10590"
+       width="20"
+       height="20"
+       x="80"
+       y="365.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10592"
+       width="20"
+       height="20"
+       x="109.99999"
+       y="365.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10594"
+       width="20"
+       height="20"
+       x="140"
+       y="365.34128" />
+    <rect
+       style="fill:#b2b2b2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stop-color:#000000"
+       id="rect10596"
+       width="20"
+       height="20"
+       x="169.99998"
+       y="365.34128" />
+    <rect
+       style="opacity:1;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.519615;stop-color:#000000"
+       id="rect10606"
+       width="59.999996"
+       height="20"
+       x="19.999998"
+       y="405.34128" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.519615;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10750"
+       width="39.999996"
+       height="29.99999"
+       x="74.397095"
+       y="465.66556" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10832"
+       width="11.749607"
+       height="8.8122034"
+       x="20.889734"
+       y="588.39569" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10834"
+       width="11.749607"
+       height="8.8122034"
+       x="36.418095"
+       y="587.83447" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10836"
+       width="11.749607"
+       height="8.8122034"
+       x="25.94113"
+       y="599.80811" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10838"
+       width="11.749607"
+       height="8.8122034"
+       x="41.469486"
+       y="598.87268" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10840"
+       width="11.749607"
+       height="8.8122034"
+       x="52.133541"
+       y="584.09271" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10846"
+       width="11.749607"
+       height="8.8122034"
+       x="88.241661"
+       y="588.39569" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10848"
+       width="11.749607"
+       height="8.8122034"
+       x="103.95712"
+       y="588.39569" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10850"
+       width="11.749607"
+       height="8.8122034"
+       x="93.293053"
+       y="599.80811" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10852"
+       width="11.749607"
+       height="8.8122034"
+       x="108.82141"
+       y="598.87268" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10854"
+       width="11.749607"
+       height="8.8122034"
+       x="119.29839"
+       y="583.71851" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10856"
+       width="11.749607"
+       height="8.8122034"
+       x="163.26421"
+       y="588.39569" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10858"
+       width="11.749607"
+       height="8.8122034"
+       x="178.97966"
+       y="588.39569" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10860"
+       width="11.749607"
+       height="8.8122034"
+       x="168.3156"
+       y="599.80811" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10862"
+       width="11.749607"
+       height="8.8122034"
+       x="183.84396"
+       y="598.87268" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10864"
+       width="11.749607"
+       height="8.8122034"
+       x="194.32094"
+       y="583.71851" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10887"
+       width="11.749607"
+       height="8.8122034"
+       x="62.95755"
+       y="632.65735" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10889"
+       width="11.749607"
+       height="8.8122034"
+       x="72.911301"
+       y="643.11047" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10891"
+       width="11.749607"
+       height="8.8122034"
+       x="49.566998"
+       y="637.37537" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10893"
+       width="11.749607"
+       height="8.8122034"
+       x="88.976471"
+       y="639.13397" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10895"
+       width="11.749607"
+       height="8.8122034"
+       x="58.962955"
+       y="647.82855" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10897"
+       width="11.749607"
+       height="8.8122034"
+       x="41.736256"
+       y="647.82855" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10899"
+       width="11.749607"
+       height="8.8122034"
+       x="73.147209"
+       y="653.56366" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10901"
+       width="11.749607"
+       height="8.8122034"
+       x="50.141857"
+       y="658.28168" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10903"
+       width="11.749607"
+       height="8.8122034"
+       x="35.392353"
+       y="635.10608" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#028eff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.152632;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect10905"
+       width="11.749607"
+       height="8.8122034"
+       x="76.348106"
+       y="631.03784" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10915"
+       cx="40.944275"
+       cy="707.69427"
+       rx="2.4473958"
+       ry="8.3343744" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10917"
+       cx="33.271358"
+       cy="712.39062"
+       rx="1.7859374"
+       ry="2.8442707" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10919"
+       cx="46.103649"
+       cy="718.013"
+       rx="1.6536458"
+       ry="2.5135417" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10921"
+       cx="58.472919"
+       cy="719.00513"
+       rx="7.2760415"
+       ry="2.4473958" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10923"
+       cx="74.215622"
+       cy="719.66663"
+       rx="1.984375"
+       ry="5.0932293" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10925"
+       cx="80.168755"
+       cy="705.31293"
+       rx="3.7041667"
+       ry="1.4552083" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path10927"
+       cx="95.316132"
+       cy="717.21045"
+       rx="4.1671872"
+       ry="5.1593747" />
+  </g>
 </svg>
