@@ -14,7 +14,7 @@
    viewBox="0 0 320.59906 180.3373"
    version="1.1"
    id="svg4519"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="s_2_1.svg">
   <defs
      id="defs4513" />
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="622.35816"
-     inkscape:cy="320.66136"
+     inkscape:cx="601.48914"
+     inkscape:cy="380.04237"
      inkscape:document-units="mm"
      inkscape:current-layer="g7411"
      showgrid="false"
@@ -36,9 +36,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="657"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:snap-page="true" />
   <metadata
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,7 +197,7 @@
            x="43.570667"
            style="font-weight:bold;font-size:3.70416999px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458299"
            xml:space="preserve"><tspan
-             style="font-size:3.70416999px;stroke-width:0.26458299"
+             style="font-size:3.70416999px;stroke-width:0.26458299;-inkscape-font-specification:'Montserrat Bold';font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
              y="526.52808"
              x="43.570667"
              id="tspan1509-1"
@@ -208,7 +208,7 @@
            x="136.55324"
            style="font-weight:bold;font-size:3.17499995px;line-height:6;font-family:Apercu;-inkscape-font-specification:'Apercu, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458299"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold';stroke-width:0.26458299"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.26458299"
              y="531.73706"
              x="136.55324"
              id="tspan1513-7"
@@ -220,51 +220,47 @@
          x="365.40057"
          style="font-weight:bold;font-size:8.46667004px;line-height:1;font-family:Apercu;-inkscape-font-specification:'Apercu Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458299"
          xml:space="preserve"><tspan
-           style="font-size:9.15508366px;text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458299"
+           style="font-size:9.15508366px;text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458299;-inkscape-font-specification:'Montserrat Bold';font-family:Montserrat;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
            y="132.28496"
            x="365.40057"
            id="tspan6296"
            sodipodi:role="line">Alternance cours/exercices</tspan></text>
-      <g
-         id="g9387"
-         transform="matrix(1.498902,0,0,1.498902,-197.81229,-76.494622)">
-        <rect
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.202, 0.101;stroke-dashoffset:0.323199;stroke-opacity:1"
-           id="rect6308"
-           width="46.999996"
-           height="29.047594"
-           x="378"
-           y="150.03114" />
-        <rect
-           style="fill:#ffe13f;fill-rule:evenodd;stroke-width:0.029563;stroke-linejoin:bevel;stroke-dasharray:0.0591261, 0.029563;stroke-dashoffset:0.0946013"
-           id="rect6322"
-           width="47.000023"
-           height="26.437511"
-           x="377.99997"
-           y="151.33618" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.29166651px;font-family:Apercu;-inkscape-font-specification:Apercu;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="381.09958"
-           y="164.99481"
-           id="text7380"><tspan
-             sodipodi:role="line"
-             id="tspan7378"
-             x="381.09958"
-             y="164.99481"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611107px;font-family:Apercu;-inkscape-font-specification:'Apercu Bold';stroke-width:0.26458332">Formation Inkscape</tspan></text>
-        <text
-           id="text7384"
-           y="154.89203"
-           x="401.11807"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.29166651px;font-family:Apercu;-inkscape-font-specification:Apercu;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;font-family:Apercu;-inkscape-font-specification:'Apercu Bold';fill:#808080;stroke-width:0.26458332"
-             y="154.89203"
-             x="401.11807"
-             id="tspan7382"
-             sodipodi:role="line">12 et 14 avril 2021</tspan></text>
-      </g>
+      <rect
+         y="148.38736"
+         x="369.17282"
+         height="43.539497"
+         width="70.448387"
+         id="rect6308"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.15138911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.3027782, 0.1513891;stroke-dashoffset:0.323199;stroke-opacity:1" />
+      <rect
+         y="150.34349"
+         x="369.17279"
+         height="39.627239"
+         width="70.448425"
+         id="rect6322"
+         style="fill:#ffe13f;fill-rule:evenodd;stroke-width:0.04431204;stroke-linejoin:bevel;stroke-dasharray:0.08862423, 0.04431204;stroke-dashoffset:0.0946013" />
+      <text
+         id="text7380"
+         y="170.69411"
+         x="371.45209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94679832px;line-height:7.45566511px;font-family:Apercu;-inkscape-font-specification:Apercu;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37278324"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.46157646px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.37278324"
+           y="170.69411"
+           x="371.45209"
+           id="tspan7378"
+           sodipodi:role="line">Formation Inkscape</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.51802731px;line-height:7.93168974px;font-family:Apercu;-inkscape-font-specification:Apercu;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39658448"
+         x="401.29025"
+         y="155.40659"
+         id="text7384"><tspan
+           sodipodi:role="line"
+           id="tspan7382"
+           x="401.29025"
+           y="155.40659"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23023462px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#808080;stroke-width:0.39658448">12 et 14 avril 2021</tspan></text>
     </g>
   </g>
 </svg>
