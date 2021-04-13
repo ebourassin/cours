@@ -215,17 +215,17 @@ Des typographies cools, libres et gratuites : [FontSquirel](https://fontsquirrel
 ---
 ### Edition de plot :
 En python, exporter soit en PDF, soit en SVG avec le texte en texte : 
-
+Curieusement, le PDF fonctionne parfois mieux que le SVG.
 > import matplotlib.pyplot as plt   
-plt.rcParams['svg.fonttype'] = 'none'
+plt.rcParams['svg.fonttype'] = 'none'  
 
-puis
-
-> plt.savefig('fichier.svg', format='svg')
+puis  
+> plt.savefig('fichier.svg', format='svg')  
 ---
-En R :
+#### Dans Inkscape : **cliquer-glisser le fichier PDF** et suivre les instructions de la fenêtre contextuelle.  
+#### Commencer d'abord par **dégrouper les objets** [CTRL+MAJ+G], répéter l'opération plusieurs fois pour décomposer également les groupes de groupes.  
+#### Pour modifier tous les éléments de texte (ex. : changer la typographie), en **sélectionner un**, **sélectionner tous les éléments du même type** [MAJ+ALT+A], sélectionner l'outil TEXTE et changer la typographie avec le menu déroulant.
 
->  ggsave(file="test.svg", plot=image, width=10, height=8)
 
 				</section>
 			</section>

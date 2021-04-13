@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="poster_demo.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.0 r15299"
    id="svg4519"
    version="1.1"
    viewBox="0 0 841 1189"
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1718.2359"
-     inkscape:cy="2262.2509"
+     inkscape:cx="1431.445"
+     inkscape:cy="3718.8805"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,9 +67,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="1273"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
      showguides="true"
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -277,7 +277,7 @@
          id="tspan2712"
          x="131.76942"
          y="-1028.9281"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-77.375748,-928.6019)"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -290,7 +290,7 @@
            width="2874.208"
            id="rect3012" /></flowRegion><flowPara
          id="flowPara3018"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:53.33333588px;line-height:133.33332825px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle">Prénom NOM, prenom.nom@mail.net (36 à 42 pt environ, ici 40) </flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:53.33333588px;line-height:133.33332825px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3032"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -352,8 +352,8 @@
            x="185.64844"
            y="921.8584" /></flowRegion><flowPara
          id="flowPara3080"
-         style="line-height:1.25;-inkscape-font-specification:'Montserrat Medium';font-family:Montserrat;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal">Corps du texte : taille de 30 pt environ. Taille à ajuster selon la lisibilité de la typographie choisie. Un poster au format A0 doit</flowPara><flowPara
-         style="line-height:1.25;-inkscape-font-specification:'Montserrat Medium';font-family:Montserrat;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="line-height:1.25;-inkscape-font-specification:'Montserrat Medium';font-family:Montserrat;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36.40000046px">Corps du texte : taille de 30 pt environ. Taille à ajuster selon la lisibilité de la typographie choisie. Un poster au format A0 doit</flowPara><flowPara
+         style="line-height:1.25;-inkscape-font-specification:'Montserrat Medium';font-family:Montserrat;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36.40000046px"
          id="flowPara3082">être lisible à 2 m de distance.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,311.59873,-1054.1337)"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:25px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
