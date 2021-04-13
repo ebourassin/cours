@@ -205,13 +205,28 @@ Des typographies cools, libres et gratuites : [FontSquirel](https://fontsquirrel
 			<section>
           <h6> Mise en page </h6>
                 <section data-markdown data-separator="---" data-separator-notes="~~~">
-![Mise en page	](img/s_10_1.svg)
+![mep](img/s_10_1.svg)
 ---
 ![Question marqueurs](img/s_10_2.svg)
 ---
 ![Question formats](img/s_10_3.svg)
 ---
 ![Question formats](img/s_10_4.svg)
+---
+### Edition de plot :
+En python, exporter soit en PDF, soit en SVG avec le texte en texte : 
+
+> import matplotlib.pyplot as plt   
+plt.rcParams['svg.fonttype'] = 'none'
+
+puis
+
+> plt.savefig('fichier.svg', format='svg')
+---
+En R :
+
+>  ggsave(file="test.svg", plot=image, width=10, height=8)
+
 				</section>
 			</section>
 
